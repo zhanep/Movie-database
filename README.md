@@ -1,2 +1,2 @@
 # Movie-database
-A imdb-like database
+An imdb-like database
